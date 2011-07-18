@@ -2,7 +2,7 @@
 Contributors: Iswan Febriyanto
 Donate link: http://wan.web.id	
 Tags: widget, widgets, plugin, sidebar, idblognetwork
-Requires at least: 1
+Requires at least: 3.2.1
 Tested up to: 3.2.1
 Stable tag: v1
 
