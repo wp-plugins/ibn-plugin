@@ -22,3 +22,16 @@ Semoga dengan adanya Plugin ini, bisa memberikan Kemudahan bagi Blogger untuk me
 4. Masukkan Blog ID Anda, (lihat Blog ID di http://idblognetwork.com/myblog.php)
 5. Pilih Model Iklan YAng Sesuai Dengan Sidebar Anda
 
+== Frequently Asked Questions ==
+Silahkan Kunjungi http://wan.web.id/plugins
+
+== Screenshots ==
+
+Silahkan Kunjungi http://wan.web.id/plugins
+
+== Changelog ==
+No
+
+== Upgrade Notice ==
+
+belum ada
